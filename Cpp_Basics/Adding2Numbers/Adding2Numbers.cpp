@@ -1,4 +1,6 @@
 /*
+problem statement : construct a program to add 2 numbers
+
 algorithm ->
 - start
 - ask user to enter 2 numbers
