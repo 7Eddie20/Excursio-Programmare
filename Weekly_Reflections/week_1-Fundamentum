@@ -65,7 +65,23 @@
 
 **Friday:**  
 
-1. istringstream
+1. istringstream - basic
+
+2. memory storage of data and instructions
+
+3. data and variables and bytes representation
+
+4. primitive data types; integer, character, boolean, floating point - float & double
+
+5. size and range of primitive data types
+
+6. modifiers - signed, unsigned, long, short,
+
+7. memory representation: integers and character
+
+8. ASCII codes
+
+9. variables: intro; declaration and initialization
 
 **Saturday:**  
 [Summarize the week and plan next steps]
