@@ -89,7 +89,7 @@
 
 12. sizeof();
 
-13. Setprecision();
+13. Setprecision(); fixed, scientific
 
 **Saturday:**  
 [Summarize the week and plan next steps]
