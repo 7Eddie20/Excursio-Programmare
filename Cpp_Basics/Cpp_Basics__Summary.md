@@ -13,5 +13,6 @@
 - `WordExtraction` - a program showcasing the working of istringstream
 - `VarDec` - a program to showcase the declaration, initialization and address of the variable
 - `CharDec` - a program to showcase various beginner level implications of data type char
+- `SimpleCalculator` - a program for simple arithmetic operations.
 
 ---
