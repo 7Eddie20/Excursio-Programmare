@@ -20,5 +20,6 @@
 - `setprecision` - a program to showcase the setprecision working.
 - `notations` - a program to showcase the notations involving set precision
 - `TriangleArea` - a program to calculate the area of a triangle
+- `ArPeRectangle` - a program to calculate the perimeter and area of a rectangle
 
 ---
