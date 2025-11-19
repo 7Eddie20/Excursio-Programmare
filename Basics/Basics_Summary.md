@@ -14,3 +14,4 @@
 - `VarDec` - a program to showcase the declaration, initialization and address of the variable
 - `CharDec` - a program to showcase various beginner level implications of data type char
 - `SimpleCalculator` - a program for simple arithmetic operations.
+- `typecast` - showcases the typecasting of float to int (truncation).
