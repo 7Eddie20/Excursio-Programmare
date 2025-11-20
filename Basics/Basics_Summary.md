@@ -26,3 +26,4 @@
 - `distance` - a program to calculate the distance an object has travelled
 - `QuadRoots` - a program to compute the roots of a quadratic equation
 - `CylinderVolume` - a program to calculate the volume of a cylinder
+- `simpleInterest` - a program to calculate the simple interest and total amount to be paid
