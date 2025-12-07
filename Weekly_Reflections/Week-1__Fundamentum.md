@@ -19,6 +19,15 @@
 
 5. Conversion - Binary to decimal <> decimal to binary
 
+6. what is a - computer; program; programming language and why is there a need for all of them.
+
+7. low level languages and high level languages
+
+8. compiler and interpreter: the similarities and the differences
+
+9. Operating system - working and management
+
+
 **Monday:**  
 [Write what you practiced or learned]
 
