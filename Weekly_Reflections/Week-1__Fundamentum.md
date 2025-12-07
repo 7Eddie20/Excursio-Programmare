@@ -13,6 +13,12 @@
 
 2. Added Debugger
 
+3. Learnt the CPU components and their working
+
+4. Binary system
+
+5. Conversion - Binary to decimal <> decimal to binary
+
 **Monday:**  
 [Write what you practiced or learned]
 
