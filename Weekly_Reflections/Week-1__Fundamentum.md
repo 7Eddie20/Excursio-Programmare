@@ -41,6 +41,8 @@
 
 5. debugging : step into, step over, step out, watch window, call stack, etc.
 
+---
+
 **Tuesday:**  
 [Write your reflections or bugs fixed, etc.]
 
