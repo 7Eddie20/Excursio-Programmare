@@ -27,9 +27,19 @@
 
 9. Operating system - working and management
 
+---
 
-**Monday:**  
-[Write what you practiced or learned]
+**Monday:**
+
+1. different programming paradigms:- monolithic, modular, object oriented
+
+2. Algorithms and pseudocodes
+
+3. Flowcharts
+
+4. program development :- editing > compiling > linking libraries > loading > execution
+
+5. debugging : step into, step over, step out, watch window, call stack, etc.
 
 **Tuesday:**  
 [Write your reflections or bugs fixed, etc.]
