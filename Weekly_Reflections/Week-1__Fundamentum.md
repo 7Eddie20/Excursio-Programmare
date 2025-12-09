@@ -47,6 +47,10 @@
 
 1. the skeleton of c++ program
 
+2. program : input -> process -> output
+
+3. learnt input and output
+
 **Wednesday:**  
 [Leave blank if nothing was done, or note a revision or insight]
 
