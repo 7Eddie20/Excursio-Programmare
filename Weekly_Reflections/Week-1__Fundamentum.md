@@ -44,7 +44,8 @@
 ---
 
 **Tuesday:**  
-[Write your reflections or bugs fixed, etc.]
+
+1. the skeleton of c++ program
 
 **Wednesday:**  
 [Leave blank if nothing was done, or note a revision or insight]
