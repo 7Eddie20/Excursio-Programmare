@@ -51,6 +51,10 @@
 
 3. learnt input and output
 
+4. learnt string input and cin ignore
+
+5. istringstream - basic
+
 **Wednesday:**  
 [Leave blank if nothing was done, or note a revision or insight]
 
