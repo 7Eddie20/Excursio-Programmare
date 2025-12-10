@@ -65,6 +65,12 @@
 
 4. size and range of primitive data types
 
+5. modifiers - signed, unsigned, long, short,
+
+6. memory representation: integers and character
+
+7. ASCII codes
+
 **Thursday:**  
 [Continue the streak!]
 
