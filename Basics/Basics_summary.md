@@ -17,5 +17,6 @@
 - `typecast` - showcases the typecasting of float to int (truncation).
 - `typecastDive` - a program to practice the typecasting.
 - `sizeOf` - a program to showcase the bytes used by each data type.
+- `setprecision` - a program to showcase the setprecision working.
 
 ---
