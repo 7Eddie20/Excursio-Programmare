@@ -56,7 +56,14 @@
 5. istringstream - basic
 
 **Wednesday:**  
-[Leave blank if nothing was done, or note a revision or insight]
+
+1. memory storage of data and instructions
+
+2. data and variables and bytes representation
+
+3. primitive data types; integer, character, boolean, floating point - float & double
+
+4. size and range of primitive data types
 
 **Thursday:**  
 [Continue the streak!]
