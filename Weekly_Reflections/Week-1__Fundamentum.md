@@ -71,6 +71,16 @@
 
 7. ASCII codes
 
+8. variables: intro; declaration and initialization
+
+9. arithmetic operators
+
+10. typecasting
+
+11. sizeof();
+
+12. Setprecision(); fixed, scientific
+
 **Thursday:**  
 [Continue the streak!]
 
