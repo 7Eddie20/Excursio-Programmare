@@ -23,5 +23,6 @@
 - `ArPeRectangle` - a program to calculate the perimeter and area of a rectangle
 - `CircleArea` - a program to calculate the area of a circle
 - `displacement` - a simple program to compute the dsisplacement when time is not given
+- `distance` - a program to calculate the distance an object has travelled
 
 ---
