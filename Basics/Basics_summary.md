@@ -24,5 +24,6 @@
 - `CircleArea` - a program to calculate the area of a circle
 - `displacement` - a simple program to compute the dsisplacement when time is not given
 - `distance` - a program to calculate the distance an object has travelled
+- `QuadRoots` - a program to compute the roots of a quadratic equation
 
 ---
