@@ -28,5 +28,6 @@
 - `CylinderVolume` - a program to calculate the volume of a cylinder
 - `simpleInterest` - a program to calculate the simple interest and total amount to be paid
 - `SumFirstN` - a program to calculate the sum of first N natural numbers
+- `distanceGraph` - a program to find the distance travelled when coordinates are given on a graph
 
 ---
