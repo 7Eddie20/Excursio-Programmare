@@ -88,7 +88,10 @@
 2. algorithm and programming practice
 
 **Friday:**  
-[Prep for Saturday’s reflection or wrap-up anything pending]
+
+1. Compound assignments
+
+2. Increment / decrement operators
 
 **Saturday:**  
 [Summarize the week and plan next steps]

@@ -30,5 +30,6 @@
 - `SumFirstN` - a program to calculate the sum of first N natural numbers
 - `distanceGraph` - a program to find the distance travelled when coordinates are given on a graph
 - `ScoreTracker` - a program to showcase the working of various compound assignment operators related to assignment operators
+- `IncDecOperators` - a program to show the in-case usage of increment operator (decrement self-explanatory)
 
 ---
