@@ -93,6 +93,8 @@
 
 2. Increment / decrement operators
 
+3. Overflow
+
 **Saturday:**  
 [Summarize the week and plan next steps]
 
