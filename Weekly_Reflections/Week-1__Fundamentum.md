@@ -95,6 +95,8 @@
 
 3. Overflow
 
+4. bitwise operators
+
 **Saturday:**  
 [Summarize the week and plan next steps]
 
