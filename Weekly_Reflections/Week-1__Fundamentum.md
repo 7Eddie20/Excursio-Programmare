@@ -98,6 +98,9 @@
 4. bitwise operators
 
 **Saturday:**  
-[Summarize the week and plan next steps]
+
+revision
+
+---
 
 ---
