@@ -33,5 +33,6 @@
 - `IncDecOperators` - a program to show the in-case usage of increment operator (decrement self-explanatory)
 - `overflow` - a program to showcase the concept of overflow using c++ library limits.h
 - `bitwise` - a program to showcase the wworking of bitwise operators
+- `constants` - a program to showcase the working of constants
 
 ---
