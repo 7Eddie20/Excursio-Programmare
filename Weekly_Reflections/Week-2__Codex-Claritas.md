@@ -14,6 +14,7 @@ revision
 **Monday:**  
 
 1. constants
+2. Enumaration
 
 **Tuesday:**  
 [Write your reflections or bugs fixed, etc.]
