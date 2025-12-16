@@ -38,5 +38,6 @@
 - `typedef` - a program to showcase the working of typedef
 - `cctype` - a program to practice the cctype library content
 - `boolean` - a program to showcase that every number except 0 represents true; 0 represents false
+- `vote` - a program to check the voting eligibility of a user
 
 ---
