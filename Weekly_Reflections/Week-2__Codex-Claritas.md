@@ -17,7 +17,8 @@ revision
 2. Enumaration
 
 **Tuesday:**  
-[Write your reflections or bugs fixed, etc.]
+
+1. typedef
 
 **Wednesday:**  
 [Leave blank if nothing was done, or note a revision or insight]

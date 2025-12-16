@@ -35,5 +35,6 @@
 - `bitwise` - a program to showcase the wworking of bitwise operators
 - `constants` - a program to showcase the working of constants
 - `Enum` - a program to showcase how enum can replace constants
+- `typedef` - a program to showcase the working of typedef
 
 ---
