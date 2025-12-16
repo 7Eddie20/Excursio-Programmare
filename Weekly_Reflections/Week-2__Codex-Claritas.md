@@ -20,6 +20,7 @@ revision
 
 1. typedef
 2. cctype
+3. boolean
 
 **Wednesday:**  
 [Leave blank if nothing was done, or note a revision or insight]
