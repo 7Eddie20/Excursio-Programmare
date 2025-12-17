@@ -41,5 +41,6 @@
 - `vote` - a program to check the voting eligibility of a user
 - `boolIfElse` - a program to show the working of boolean data type
 - `allInOne` - a program to showcase the working of iomanip, overflow and typecasting
+- `netSalary` - a program to calculate the net salary of a person
 
 ---

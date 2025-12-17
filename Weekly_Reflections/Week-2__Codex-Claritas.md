@@ -23,7 +23,8 @@ revision
 3. boolean
 
 **Wednesday:**  
-[Leave blank if nothing was done, or note a revision or insight]
+
+1. programming practice
 
 **Thursday:**  
 [Continue the streak!]
