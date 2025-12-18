@@ -26,8 +26,9 @@ revision
 
 1. programming practice
 
-**Thursday:**  
-[Continue the streak!]
+**Thursday:**
+
+1. revision
 
 **Friday:**  
 [Prep for Saturday’s reflection or wrap-up anything pending]
