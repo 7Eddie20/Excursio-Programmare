@@ -11,28 +11,43 @@
 
 break
 
+---
+
 **Monday:**  
 
 1. constants
+
 2. Enumaration
+
+---
 
 **Tuesday:**  
 
 1. typedef
+
 2. cctype
+
 3. boolean
+
+---
 
 **Wednesday:**  
 
 1. programming practice
 
+---
+
 **Thursday:**
 
 break
 
+---
+
 **Friday:**  
 
 break
+
+---
 
 **Saturday:**  
 
