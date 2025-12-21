@@ -9,7 +9,7 @@
 
 **Sunday:**  
 
-revision
+break
 
 **Monday:**  
 
@@ -28,13 +28,14 @@ revision
 
 **Thursday:**
 
-1. revision
+break
 
 **Friday:**  
 
 break
 
 **Saturday:**  
-[Summarize the week and plan next steps]
+
+break
 
 ---

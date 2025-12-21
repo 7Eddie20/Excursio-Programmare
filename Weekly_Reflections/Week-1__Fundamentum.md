@@ -55,6 +55,8 @@
 
 5. istringstream - basic
 
+---
+
 **Wednesday:**  
 
 1. memory storage of data and instructions
@@ -81,11 +83,15 @@
 
 12. Setprecision(); fixed, scientific
 
+---
+
 **Thursday:**  
 
 1. Operator precedence and Hierarchy
 
 2. algorithm and programming practice
+
+---
 
 **Friday:**  
 
@@ -96,6 +102,8 @@
 3. Overflow
 
 4. bitwise operators
+
+---
 
 **Saturday:**  
 
