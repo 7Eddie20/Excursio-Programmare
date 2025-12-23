@@ -12,7 +12,8 @@
 1. revised the bitwise operations
 
 **Monday:**  
-[Write what you practiced or learned]
+
+1. conditionals
 
 **Tuesday:**  
 [Write your reflections or bugs fixed, etc.]
