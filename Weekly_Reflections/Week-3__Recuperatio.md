@@ -11,12 +11,19 @@
 
 1. revised the bitwise operations
 
+---
+
 **Monday:**  
 
 1. conditionals
 
+---
+
 **Tuesday:**  
-[Write your reflections or bugs fixed, etc.]
+
+Break
+
+---
 
 **Wednesday:**  
 [Leave blank if nothing was done, or note a revision or insight]
