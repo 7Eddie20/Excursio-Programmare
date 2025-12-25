@@ -26,7 +26,10 @@ Break
 ---
 
 **Wednesday:**  
-[Leave blank if nothing was done, or note a revision or insight]
+
+Break
+
+---
 
 **Thursday:**  
 [Continue the streak!]
