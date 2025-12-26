@@ -38,7 +38,8 @@ Revision
 ---
 
 **Friday:**  
-[Prep for Saturday’s reflection or wrap-up anything pending]
+
+
 
 **Saturday:**  
 [Summarize the week and plan next steps]
