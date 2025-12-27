@@ -39,9 +39,12 @@ Revision
 
 **Friday:**  
 
+break
 
+---
 
 **Saturday:**  
-[Summarize the week and plan next steps]
+
+break
 
 ---
