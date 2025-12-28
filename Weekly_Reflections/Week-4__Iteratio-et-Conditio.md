@@ -13,6 +13,8 @@
 
 2. conditional statements: relational operators
 
+3. practice: conditionals
+
 **Monday:**  
 [Write what you practiced or learned]
 
