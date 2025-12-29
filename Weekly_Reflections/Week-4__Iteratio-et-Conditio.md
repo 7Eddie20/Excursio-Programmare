@@ -15,8 +15,13 @@
 
 3. practice: conditionals
 
+---
+
 **Monday:**  
-[Write what you practiced or learned]
+
+break
+
+---
 
 **Tuesday:**  
 [Write your reflections or bugs fixed, etc.]
