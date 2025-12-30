@@ -24,7 +24,10 @@ break
 ---
 
 **Tuesday:**  
-[Write your reflections or bugs fixed, etc.]
+
+break
+
+---
 
 **Wednesday:**  
 [Leave blank if nothing was done, or note a revision or insight]
