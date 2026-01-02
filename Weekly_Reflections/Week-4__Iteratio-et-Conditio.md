@@ -36,7 +36,10 @@ break
 ---
 
 **Thursday:**  
-[Continue the streak!]
+
+break
+
+---
 
 **Friday:**  
 [Prep for Saturday’s reflection or wrap-up anything pending]
