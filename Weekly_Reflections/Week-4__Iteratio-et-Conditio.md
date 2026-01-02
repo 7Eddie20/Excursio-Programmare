@@ -43,7 +43,7 @@ break
 
 **Friday:**  
 
-1.
+1. Logical Operators
 
 **Saturday:**  
 [Summarize the week and plan next steps]
