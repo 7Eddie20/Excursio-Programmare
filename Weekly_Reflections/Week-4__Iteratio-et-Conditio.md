@@ -45,6 +45,10 @@ break
 
 1. Logical Operators
 
+2. Truth Table - &&, ||, !
+
+---
+
 **Saturday:**  
 [Summarize the week and plan next steps]
 
