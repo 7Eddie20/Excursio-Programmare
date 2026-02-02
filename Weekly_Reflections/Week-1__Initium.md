@@ -11,6 +11,12 @@
 
 1. Created the repository
 
+2. Components of a computer
+
+3. Binary system
+
+4. Number systems and conversions
+
 ---
 
 ### Monday (DD/MM/YYYY)
