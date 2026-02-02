@@ -19,7 +19,17 @@
 
 ---
 
-### Monday (DD/MM/YYYY)
+### Monday (02/02/2026)
+
+1. Program and language paradox
+
+2. Low level languages vs High level languages : Machine language - Assembly language - High level language
+
+3. Compiler / Interpreter / Hybrid
+
+4. Operating System and its workings
+
+5. System calls vs APIs
 
 ---
 
