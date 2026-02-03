@@ -39,7 +39,7 @@
 
 2. Algorithms
 
-3. 
+3. Pseudocode and Programs
 
 ---
 
