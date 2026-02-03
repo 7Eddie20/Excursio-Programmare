@@ -33,7 +33,11 @@
 
 ---
 
-### Tuesday (DD/MM/YYYY)
+### Tuesday (03/02/2026)
+
+1. Programming Paradigms: Monolithic, Procedural, Modular, Object-Oriented Programming
+
+2. 
 
 ---
 
