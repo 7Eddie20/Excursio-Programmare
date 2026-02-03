@@ -41,6 +41,8 @@
 
 3. Pseudocode and Programs
 
+4. Flowcharts
+
 ---
 
 ### Wednesday (DD/MM/YYYY)
