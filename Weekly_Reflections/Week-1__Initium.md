@@ -47,6 +47,8 @@
 
 6. C++ Header files and Linking window
 
+7. IDEs
+
 ---
 
 ### Wednesday (DD/MM/YYYY)
