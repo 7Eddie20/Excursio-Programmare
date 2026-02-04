@@ -51,7 +51,7 @@
 
 ---
 
-### Wednesday (DD/MM/YYYY)
+### Wednesday (04/02/2026)
 
 ---
 
