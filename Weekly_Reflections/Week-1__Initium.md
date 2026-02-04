@@ -53,6 +53,10 @@
 
 ### Wednesday (04/02/2026)
 
+1. Added debugger
+
+2. set up IDE environment
+
 ---
 
 ### Thursday (DD/MM/YYYY)
