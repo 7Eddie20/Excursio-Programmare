@@ -63,6 +63,8 @@
 
 1. C++ Skeleton
 
+2. Tested the Debugger
+
 ---
 
 ### Friday (DD/MM/YYYY)
