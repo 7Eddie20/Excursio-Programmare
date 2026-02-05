@@ -59,7 +59,9 @@
 
 ---
 
-### Thursday (DD/MM/YYYY)
+### Thursday (05/02/2026)
+
+1. C++ Skeleton
 
 ---
 
