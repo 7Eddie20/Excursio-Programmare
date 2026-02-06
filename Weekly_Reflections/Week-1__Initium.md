@@ -67,7 +67,9 @@
 
 ---
 
-### Friday (DD/MM/YYYY)
+### Friday (06/02/2026)
+
+1. First program
 
 ---
 

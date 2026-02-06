@@ -6,5 +6,6 @@
 
 - `Skeleton` - the skeleton of a c++ program
 - `Debugger_testing` – a simple loop program to test debugger
+- `Adding2Numbers` - a program to add 2 numbers
 
 ---
