@@ -79,5 +79,6 @@
 
 2. Basic Syntax
 
+3. Getline
 
 ---
