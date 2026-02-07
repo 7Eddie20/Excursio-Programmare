@@ -81,4 +81,6 @@
 
 3. Getline
 
+4. Cin.ignore()
+
 ---
