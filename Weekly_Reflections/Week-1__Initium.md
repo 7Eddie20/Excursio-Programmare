@@ -73,6 +73,11 @@
 
 ---
 
-### Saturday (DD/MM/YYYY)
+### Saturday (07/02/2026)
+
+1. Key Components of a program
+
+2. Basic Syntax
+
 
 ---
