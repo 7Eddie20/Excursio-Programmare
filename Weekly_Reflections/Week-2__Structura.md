@@ -9,7 +9,7 @@
 
 ### Sunday (08/02/2025)
 
-1. 
+1. Syntax Practice
 
 ---
 
