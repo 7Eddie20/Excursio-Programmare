@@ -13,6 +13,8 @@
 
 2. created .gitignore
 
+3. Components of a computer: CPU - ALU, CU, Main memory, Hard disk, I/O and buffer memories.
+
 ---
 
 ### Monday (DD/MM/YYYY)
