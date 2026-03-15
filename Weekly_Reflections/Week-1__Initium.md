@@ -15,6 +15,8 @@
 
 3. Components of a computer: CPU - ALU, CU, Main memory, Hard disk, I/O and buffer memories.
 
+4. The Binary system - Intro
+
 ---
 
 ### Monday (DD/MM/YYYY)
