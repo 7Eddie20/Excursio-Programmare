@@ -19,7 +19,11 @@
 
 ---
 
-### Monday (DD/MM/YYYY)
+### Monday (16/03/2026)
+
+1. Number systems
+
+2. conversions - decimal to binary & binary to decimal
 
 ---
 
