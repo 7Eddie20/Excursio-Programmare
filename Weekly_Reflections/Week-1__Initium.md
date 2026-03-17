@@ -27,7 +27,11 @@
 
 ---
 
-### Tuesday (DD/MM/YYYY)
+### Tuesday (17/03/2026)
+
+1. Programming - Definition
+
+2. language paradox - machine, natural, programming
 
 ---
 
