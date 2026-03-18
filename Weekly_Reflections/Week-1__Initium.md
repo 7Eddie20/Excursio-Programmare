@@ -35,7 +35,15 @@
 
 ---
 
-### Wednesday (DD/MM/YYYY)
+### Wednesday (18/03/2026)
+
+1. Low level languages - High level languages
+
+2. Compiler - Interpreter - Hybrid
+
+3. Operating System - its working
+
+4. System calls vs APIs
 
 ---
 
